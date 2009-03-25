@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>new AddChild(${1:containe}, ${2:child})</string>
+	<key>name</key>
+	<string>AddChild - Command</string>
+	<key>scope</key>
+	<string>source.actionscript.3.progression</string>
+	<key>tabTrigger</key>
+	<string>com</string>
+	<key>uuid</key>
+	<string>F5C189A8-8946-47A1-B619-5CC7D0EC85AA</string>
+</dict>
+</plist>

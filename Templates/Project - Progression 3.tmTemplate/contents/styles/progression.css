@@ -1,0 +1,38 @@
+﻿@charset "utf-8";
+
+#flashcontent {
+	position    :absolute;
+	left        :50%;
+	top         :50%;
+	width       :740px;
+	height      :300px;
+	line-height	:0;
+	margin-left :-370px;
+	margin-top  :-150px;
+	}
+	#flashcontent * {
+		line-height	:150%;
+		}
+	#flashcontent #attention {
+		color       :#666666;
+		font-size   :80%;
+		text-align  :center;
+		margin      :0 10%;
+		padding     :30px;
+		border      :10px #EEEEEE solid;
+		background  :#FFFFFF;
+		}
+		#flashcontent #attention h1,
+		#flashcontent #attention h2 {
+			color       :#333333;
+			}
+		#flashcontent #attention img {
+			border      :0;
+			}
+		#flashcontent #attention p,
+		#flashcontent #attention ul {
+			text-align  :left;
+			}
+		#flashcontent #attention p.appendix {
+			text-align  :center;
+			}

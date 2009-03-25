@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>"./_create_as3_project.sh"</string>
+	<key>extension</key>
+	<string>as</string>
+	<key>keyEquivalent</key>
+	<string>~@N</string>
+	<key>name</key>
+	<string>Project - Progression 3</string>
+	<key>uuid</key>
+	<string>98C36FC8-51F0-4EFB-BAD2-F51F355F69A7</string>
+</dict>
+</plist>

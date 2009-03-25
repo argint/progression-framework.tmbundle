@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comment</key>
+	<string>Progression Framework Syntax extends ActionScript 3 Syntax</string>
+	<key>fileTypes</key>
+	<array>
+		<string>as</string>
+	</array>
+	<key>firstLineMatch</key>
+	<string>\bProgression\b</string>
+	<key>foldingStartMarker</key>
+	<string>\{\s*$</string>
+	<key>foldingStopMarker</key>
+	<string>^\s*\}</string>
+	<key>keyEquivalent</key>
+	<string>^~A</string>
+	<key>name</key>
+	<string>Progression 3</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.actionscript.3</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.actionscript.3.progression</string>
+	<key>uuid</key>
+	<string>C2005EEA-CA5D-49C3-9104-963953CED458</string>
+</dict>
+</plist>

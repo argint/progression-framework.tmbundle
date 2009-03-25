@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>8B6B6498-4DEC-42D8-A967-2EB8DF8FFBEE</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>8B6B6498-4DEC-42D8-A967-2EB8DF8FFBEE</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>9B54FCE2-A5ED-4934-9578-055777811709</string>
+					<string>F5C189A8-8946-47A1-B619-5CC7D0EC85AA</string>
+					<string>457215B5-CDAA-44AB-B7AC-E671017E1EC9</string>
+					<string>A0A19839-8F37-4F62-9C8F-CD2D69C97985</string>
+				</array>
+				<key>name</key>
+				<string>New Group</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Progression Framework</string>
+	<key>ordering</key>
+	<array>
+		<string>C2005EEA-CA5D-49C3-9104-963953CED458</string>
+		<string>98C36FC8-51F0-4EFB-BAD2-F51F355F69A7</string>
+		<string>EF42D693-7251-411E-AE20-39E08A5C5B3F</string>
+		<string>502517AF-149F-450E-84DE-31BB9AD569E6</string>
+		<string>EF52C422-FD18-4AC7-ABD7-9E7D63387FB9</string>
+		<string>85D4C4AD-B5BC-423F-8A26-EE5AB7B6BD35</string>
+		<string>B7176044-8FAC-4F0B-A3D1-6F6939C06AA3</string>
+		<string>365B4ADE-E997-4E3F-9A10-54F0653FB2A2</string>
+		<string>DCE4D299-7F37-4135-B4BC-14B768074BA3</string>
+		<string>9B54FCE2-A5ED-4934-9578-055777811709</string>
+		<string>457215B5-CDAA-44AB-B7AC-E671017E1EC9</string>
+		<string>F5C189A8-8946-47A1-B619-5CC7D0EC85AA</string>
+		<string>A0A19839-8F37-4F62-9C8F-CD2D69C97985</string>
+	</array>
+	<key>uuid</key>
+	<string>85EFF236-CC38-449E-8458-C453A089D6E7</string>
+</dict>
+</plist>

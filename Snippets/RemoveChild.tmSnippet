@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>new RemoveChild(${1:containe}, ${2:child})</string>
+	<key>name</key>
+	<string>RemoveChild - Command</string>
+	<key>scope</key>
+	<string>source.actionscript.3.progression</string>
+	<key>tabTrigger</key>
+	<string>com</string>
+	<key>uuid</key>
+	<string>457215B5-CDAA-44AB-B7AC-E671017E1EC9</string>
+</dict>
+</plist>
